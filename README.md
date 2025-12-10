@@ -173,8 +173,8 @@ Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 
 **Votre Nom**
 
-- GitHub: [@votre-username](https://github.com/votre-username)
-- LinkedIn: [Votre Profil](https://linkedin.com/in/votre-profil)
+- GitHub: [@votre-username](https://github.com/wilsonDenis)
+- LinkedIn: [Votre Profil](www.linkedin.com/in/denis-wilson-bahun-29a67228b)
 
 ## 🙏 Remerciements
 
